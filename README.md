@@ -2,14 +2,8 @@
 
 This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious about everything that I don't know.
 
-[![Twitter Badge](https://img.shields.io/badge/-@danianepg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danianepg)](=https://twitter.com/danianepg)
-
-[![Linkedin Badge](https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danianepg/)](https://www.linkedin.com/in/danianepg/) 
-
-[![Medium Badge](https://img.shields.io/badge/-@danianepg-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@danianepg/)](https://medium.com/@danianepg/ )
-
-[![Gmail Badge](https://img.shields.io/badge/-danianepg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danianepg@gmail.com)](mailto:danianepg@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danianepg/)](https://www.linkedin.com/in/danianepg/) [![Twitter Badge](https://img.shields.io/badge/-@danianepg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danianepg)](https://twitter.com/danianepg)  [![Gmail Badge](https://img.shields.io/badge/-danianepg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danianepg@gmail.com)](mailto:danianepg@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@danianepg-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@danianepg/)](https://medium.com/@danianepg/) 
 
 - 🔭 I’m currently working as a Software Engineer with Java and AWS stuff @ Lisbon.
 - 🌱 I’m currently learning Infra as Code and AWS.
