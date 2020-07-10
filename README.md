@@ -2,14 +2,20 @@
 
 This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious about everything that I don't know.
 
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danianepg)](=https://twitter.com/danianepg)
+
+[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/danianepg)](linkedin.com/in/danianepg) 
+
+[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@danianepg/)](https://medium.com/@danianepg/ )
+
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danianepg@gmail.com)](mailto:danianepg@gmail.com)
+
+
 - 🔭 I’m currently working as a Software Engineer with Java and AWS stuff @ Lisbon.
 - 🌱 I’m currently learning Infra as Code and AWS.
-- 📫 How to reach me: 
-linkedin.com/in/danianepg
-https://medium.com/@danianepg/ 
-https://twitter.com/danianepg
 - 💬 Ask me about Java, travelling, Netflix, cakes...
 - 😄 Pronouns: She/her
+
 
 
 <!--
