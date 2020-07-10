@@ -4,7 +4,7 @@ This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious 
 
 [![Twitter Badge](https://img.shields.io/badge/-@danianepg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danianepg)](=https://twitter.com/danianepg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/danianepg)](linkedin.com/in/danianepg) 
+[![Linkedin Badge](https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danianepg/)](https://www.linkedin.com/in/danianepg/) 
 
 [![Medium Badge](https://img.shields.io/badge/-@danianepg-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@danianepg/)](https://medium.com/@danianepg/ )
 
