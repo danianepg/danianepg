@@ -7,7 +7,7 @@ This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious 
 
 - 🔭 I’m currently working as a Software Engineer with Java and AWS stuff @ Lisbon.
 - 🌱 I’m currently learning Infra as Code and AWS.
-- 💬 Ask me about Java, travelling, Netflix, cakes...
+- 💬 Ask me about Java, Spring, travelling, Netflix, cakes...
 - 😄 Pronouns: She/her
 
 
