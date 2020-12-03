@@ -5,7 +5,7 @@ This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious 
 <a href="https://www.linkedin.com/in/danianepg/" target="_blank"><img src="https://img.shields.io/badge/-danianepg-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a> <a href="https://twitter.com/danianepg" target="_blank"><img src="https://img.shields.io/badge/-@danianepg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="mailto:danianepg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-danianepg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a> <a href="https://medium.com/@danianepg/" target="_blank"><img src="https://img.shields.io/badge/-@danianepg-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium"></a> <a href="https://dev.to/danianepg/" target="_blank"><img src="https://img.shields.io/badge/danianepg-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 
-- 🔭 I’m currently working as a Software Engineer with Java and AWS stuff @ The Netherlands.
+- 🔭 I’m currently working as a Software Engineer with Java and Spring flavours @ The Netherlands.
 - 🌱 I’m currently learning Infra as Code and AWS.
 - 💬 Ask me about Java, Spring, travelling, Netflix, cakes...
 - 😄 Pronouns: She/her
