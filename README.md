@@ -9,6 +9,7 @@ This is Daniane speaking. I'm a Java lover, Spring enthusiast and a big curious 
 - 🌱 I’m currently learning Infra as Code and AWS.
 - 💬 Ask me about Java, Spring, travelling, Netflix, cakes...
 - 😄 Pronouns: She/her
+- ⚡ Fun fact: I've already lived and worked in 4 countries: Brazil, Australia, Portugal and The Netherlands.
 
 
 
