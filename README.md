@@ -11,6 +11,9 @@ I'm a Java lover, Spring enthusiast and a big curious about everything that I do
 ### Open Source Contributions
 * eBook ["Deploy em produção para desenvolvedores"](https://leanpub.com/deployemprodparadevs) - chapter "Migrações em Banco de Dados Relacionais" *(pt-br)*
 
+### Talks
+* 2021-06-08 - Tools for Zero Downtime Migrations. TDC Connections, JAVA TRACK INTERNATIONAL.
+
 ### Articles
 * [Não leve o DRY tão a sério](https://danianepg.medium.com/n%C3%A3o-leve-o-dry-t%C3%A3o-a-s%C3%A9rio-1d444397e94c) *(pt-br)*
 * [Porque mulheres se interessam por tecnologia](https://danianepg.medium.com/porque-mulheres-se-interessam-por-tecnologia-974669f90e75) *(pt-br)*
