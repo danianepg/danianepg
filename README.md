@@ -12,7 +12,7 @@ I'm a Java lover, Spring enthusiast and a big curious about everything that I do
 * eBook ["Deploy em produção para desenvolvedores"](https://leanpub.com/deployemprodparadevs) - chapter "Migrações em Banco de Dados Relacionais" *(pt-br)*
 
 ### Talks
-* 2021-06-08 - Tools for Zero Downtime Migrations. TDC Connections, JAVA TRACK INTERNATIONAL.
+* 2021-06-08 - ["Tools for Zero Downtime Migrations"](https://github.com/danianepg/tdc-presentation). TDC Connections, JAVA TRACK INTERNATIONAL.
 
 ### Articles
 * [Não leve o DRY tão a sério](https://danianepg.medium.com/n%C3%A3o-leve-o-dry-t%C3%A3o-a-s%C3%A9rio-1d444397e94c) *(pt-br)*
