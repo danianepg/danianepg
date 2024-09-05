@@ -19,6 +19,9 @@ I'm a Java lover, Spring enthusiast and tech curious who does some frontend, som
 * 2021-12-08 - ["Desenvolvedora Java em Roterdã, Holanda – Dev Sem Fronteiras #13"](https://www.devsemfronteiras.tech/episode/desenvolvedora-java-em-roterda-holanda-dev-sem-fronteiras-13/) *(career/pt-br)*
 
 ### Articles
+* [Building a continuous delivery pipeline for database migrations with GitLab and AWS](https://danianepg.medium.com/building-a-continuous-delivery-pipeline-for-database-migrations-with-gitlab-and-aws-c81b47f1a56a)
+* [Database Migrations with Liquibase and Flyway](https://danianepg.medium.com/database-migrations-with-liquibase-and-flyway-5946379c7738)
+* [Triggering an Amazon ECS from Amazon RDS](https://danianepg.medium.com/database-migrations-with-liquibase-and-flyway-5946379c7738)
 * [Maven e Gradle](https://danianepg.medium.com/maven-e-gradle-e993f67e34a4) *(pt-br)*
 * [Algoritmos do Menor Caminho](https://danianepg.medium.com/algoritmos-do-menor-caminho-b0e680ba196b) *(pt-br)*
 * [Fiz m*rda no GIT, e agora?](https://danianepg.medium.com/fiz-m-rda-no-git-e-agora-f6575750e5f8) *(pt-br)*
@@ -26,9 +29,6 @@ I'm a Java lover, Spring enthusiast and tech curious who does some frontend, som
 * [Clouds públicas, privadas, híbridas e multicloud](https://danianepg.medium.com/clouds-p%C3%BAblicas-privadas-h%C3%ADbridas-e-multicloud-1c685f0d0cb9) *(pt-br)*
 * [Automate Documentation on GitLab](https://danianepg.medium.com/automatize-documentation-on-gitlab-edf07e0c1965)
 * [Java 14 Records :: did we live to see getters and setters die?](https://danianepg.medium.com/java-14-records-did-we-live-to-see-getters-and-setters-die-b23f4cb0495a)
-* [Building a continuous delivery pipeline for database migrations with GitLab and AWS](https://danianepg.medium.com/building-a-continuous-delivery-pipeline-for-database-migrations-with-gitlab-and-aws-c81b47f1a56a)
-* [Database Migrations with Liquibase and Flyway](https://danianepg.medium.com/database-migrations-with-liquibase-and-flyway-5946379c7738)
-* [Triggering an Amazon ECS from Amazon RDS](https://danianepg.medium.com/database-migrations-with-liquibase-and-flyway-5946379c7738)
 * [An Experiment with User Story Mapping](https://danianepg.medium.com/an-experiment-with-user-story-mapping-f0a78b9d86ec)
 * [Clean Validation in Java with Predicates](https://danianepg.medium.com/clean-validation-in-java-with-predicates-18bff4ba2888)
 
